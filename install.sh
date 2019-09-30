@@ -12,4 +12,6 @@ apt install nmap
 echo ""
 echo "\033[1;96m   Follow @hacking__beast on instagram and on github Hacking-beast for more tools.."
 echo ""
+echo "\033[1;96m https://github.com/Hacking-beast"
+echo ""
 echo "\033[1;96m installation finished"
